@@ -1,0 +1,11 @@
+.about{
+    padding: 119px 0 100px 0;
+
+}
+.about__container{
+    width: 540px;
+    margin: 0 auto;
+}
+.about__title{
+    margin-bottom: 50px;
+}

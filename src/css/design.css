@@ -1,0 +1,27 @@
+.design{
+    padding: 162px 0 146px 0;
+    background: #EEEFF1;
+}
+.design__container{
+    width: 1100px;
+    margin: 0 auto;
+}
+.design__content{
+    display: flex;
+}
+.design__img{
+    margin-right: 176px;
+}
+.design__title{
+    margin-bottom: 60px;
+    font-size: 48px;
+}
+.design__text{
+    margin-bottom: 60px;
+}
+.design__btn{
+    padding: 25px 41px;
+    background: #34547A;
+    border: none;
+    color: white;
+}

@@ -1,0 +1,28 @@
+.header{
+    padding-top: 57px;
+    background: #EEEFF1;
+}
+.header__container{
+    width: 1005px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.header__ul{
+    display: flex;
+}
+.ul__item{
+    margin-right: 42px;
+}
+.ul__item:last-child{
+    margin-right: 0;
+}
+.ul__item{
+    display: flex;
+}
+a{
+    text-transform: uppercase;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+}
